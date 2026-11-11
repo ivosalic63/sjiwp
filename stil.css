@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Dekko&family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+
+body {
+    background-color: lightblue;
+    color: black;
+    font-family: "Mukta", sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+
+p, tr, td{
+    text-align: left;
+}
+
+a{
+    text-decoration: none;
+}
